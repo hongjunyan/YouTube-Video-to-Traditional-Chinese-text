@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  ytvideo2text:
+    build: .
+    image: ytvideo2text_img
+    container_name: ytvideo2text_app
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./config.yaml:/audio2text/config.yaml

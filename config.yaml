@@ -1,0 +1,4 @@
+OPENAI:
+  api_key: ""
+  lang: "zh"
+  audio_dir: "./audio_dir"  # The downloaded audio file will be here
