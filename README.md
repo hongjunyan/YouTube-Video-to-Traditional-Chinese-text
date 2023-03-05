@@ -1,5 +1,7 @@
 # YouTube Video to Traditional Chinese text
 
+## Blog
+https://medium.com/@hongjunyanlab/video-to-chinese-text-whisper-gpt-3-5-turbo-12cd57e74b7a
 
 ## Edit Config
 - config.yaml
